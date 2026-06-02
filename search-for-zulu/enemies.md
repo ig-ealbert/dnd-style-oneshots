@@ -32,19 +32,21 @@ The young man works with the elderly woman as a distraction, but the combat is o
 - Fan of Knives - deal 1d4 + `Speed` damage to all adventurers
 - Misdirection - dodge the next two attacks
 
-## Evil Sorceress
+## Festival Guards
 
 ### Description
 
-This is a human woman in a long red and black robe, with sleeves that flare out after the elbows. She wears a pointed hat that looks almost like it belongs to a princess, and has a magic wand with a black star at the point. She looks young and attractive, which makes you a bit fearful of her magic.
+There are 2 guards summoned to catch the "thieves" (the adventurers) if they cannot reimburse the merchant for the meat that Zulu stole. They are meant to keep the peace at the festival, but are willing to fight anyone who disturbs the enjoyment of their town's special day.
 
 ### Combat
 
-`HP` 150
+Each guard has these stats, and attacks an adventurer at random.
+
+`HP` 75
 `Speed` 2
 
 Attacks:
 
-- Evil Grip - Attacks one adventurer for 2d8 damage
-- Ensnare - Attacks all adventurers for 1d6 damage
-- Stun Spell - One adventurer cannot deal damage to the sorceress next turn
+- Protect the City - Attacks one adventurer for 2d8 damage and negates the next attack against this guard
+- Crowd Control - Attacks all adventurers for 1d6 damage
+- Restraining Order - One adventurer cannot deal damage to the guards next turn

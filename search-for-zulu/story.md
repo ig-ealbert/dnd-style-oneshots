@@ -4,7 +4,7 @@
 
 You and your companions are at the inn, eating delicious food and drinking the house special, sharing stories and laughing together, when a frazzled man bursts into the inn. He quickly scans the tables and finds your group. He approaches with haste.
 
-"Oh good! You seem like a group of competent adventurers. I need your help. My dog, Zulu, has gone missing. He was in my room when I woke up, but after I finished getting ready for the day and was ready to give him his breakfast, he was nowhere to be found! He must have gotten out somehow. He's always been such a well behaved dog, and a very loving family pet. I can't imagine why he would just up and leave! I wonder if someone took him away? Please! I need you to find him. I will give you a monetary reward for doing so, assuming you bring him back in one piece. Can you find him for me?"
+"Oh good! You seem like a group of competent adventurers. I need your help. My dog, Zulu, has gone missing. He was in my room when I woke up, but after I finished getting ready for the day and was ready to give him his breakfast, he was nowhere to be found! He must have gotten out somehow. He's always been such a well behaved dog, and a very loving family pet. I can't imagine why he would just up and leave! I wonder what possessed him to run away? Please! I need you to find him. I will give you a monetary reward for doing so, assuming you bring him back in one piece. Can you find him for me?"
 
 The man looks desperate, and he is offering a decent reward for the simple act of finding a lost dog, so you accept.
 
@@ -100,84 +100,58 @@ When the thief is defeated, he flees. There is no opportunity or advantage to pu
 
 As you enter the village, you hear a dog bark. It gives you hope! You have no idea if it's Zulu or not, but at least you reminded of the quest, and you feel like you're close.
 
+The village seems strangely busy and there is a unique smell in the air.
+
 Let the adventurers explore the village. There are some places in particular that might be helpful.
 
 ### The Inn
 
-The innkeeper is surprised to see adventurers in the small village.
+The innkeeper is not surprised at the arrival of the adventurers.
 
-"Our village is small and quiet. A great place to raise a family, but not so much to do here for thrillseekers. What brings you folks to town?"
+"Are ye here to partake in our annual meat festival? Got lotsa travelers today. Best be gettin' on with yer travels, or you'll miss the best of the offers!"
 
-If the adventurers ask about Zulu, the innkeeper warns them.
-
-"Many people have pets here, as it gives them a sense of security and protection. Don't go taking anyone's beloved animal, mistaking it for the one you're after. Might not want to snoop around the residential area either, as people will be suspicious."
+If the adventurers ask about Zulu, the innkeeper doesn't know. He's been busy with customers all day. He simply advises them to continue on to the festival, and if they press, he says he doesn't have any free rooms available at the inn and asks them to leave.
 
 ### The Food Market
 
-"Are you here to buy some tasty meat? Guaranteed fresh! Actually, I don't have a full selection today. Someone came by yesterday and bought all of my spiced beef. Hadn't seen the young lady around before. Very attractive. It was a bit suspicious, I'll admit, but I don't ask questions when they're not good for my business."
+"Are you here to buy some tasty meat? Guaranteed fresh! Actually, I don't have a full selection today. There's a meat festival going on just down the road, in the town square. My assistant is there selling my new products. Go check it out!"
 
-### The Residential Area
+The merchant doesn't know anything about Zulu, but does joke that, "My meat's good enough for humans, so it must be heaven on earth for dogs!"
 
-There are various residents out and about, and you can ask them without being too instrusive or knocking on doors. Anyone who tries to ask a resident about Zulu while in their house will be "asked" to respect their privacy.
+### The Festival
 
-Out around the neighborhood, all adventurers can make one 1d20 roll and ask a resident. Depending on the roll, various answers can be given.
+The festival is in full swing in the town square. It's packed with tourists and meat connoisseurs. It smells amazing, as there is an entire section devoted to barbecued meats.
+
+To speak with various festival goers, all adventurers can make one 1d20 roll and ask a question. Depending on the roll, various answers can be given.
 
 16+:
-"Did you hear? The barking? From that house at the corner of Elm and Oak Streets? That guy has never wanted anything to do with dogs before. I wonder if he's finally realized how wonderful they are and taken one in. Maybe we'll get to meet the new dog soon!"
+"Yes, I saw him! He was walking excitedly from stand to stand and putting his front paws up on the wood. Looked to be begging for meat! Don't know where he is now, but can't imagine he's left the festival. Good luck!"
 
 6-15:
-"I heard a bark that I didn't recognize today, but I don't know where it came from. It certainly wasn't my Princess. She has the cutest little 'yip'. Isn't that right, Princess? You're just the cutest little doggie!"
+"I heard a merchant complaining that a dog tried to swipe a 'free sample' of his meat. Don't know if that's your dog or not, but wouldn't he be happy here today?"
 
 2-5:
 "I don't know anything about a Zulu. Good luck on your search."
 
 1 (Critical Failure):
 
-"You crazy kids! Get off my lawn!"
+"Dogs aren't allowed at the festival! You'd best find him and get him out of here!"
 
-"We're not on your lawn, we're on the street. So are you."
+## The Festival - Part 2
 
-"You're close enough, now scram!"
+Hopefully someone got a good roll. You go check out the merchant stands. Any of the stands selling raw meat won't lead to any helpful information other than potentially having seen the dog or shooing him away from the stand.
 
-## The Village - Part 2
+If the adventurers ask around at the barbecue area, they will hear a commotion coming from a nearby barbecue demonstration. Rushing to the source of the noise, they find a dog stealing a steak off a grill!!! It's Zulu!
 
-Hopefully someone got a good roll. You go to investigate the house at the corner of Elm and Oak Streets. As you look around, you notice there is a fenced in backyard, but this fence is chain link and 8ft tall. It's clearly not your normal picket fence for a family yard.
+The merchant is clearly upset.
 
-If the adventurers choose to knock on the front door, a voice stops them before they do. They hear it from the back yard, so they go to investigate. If the adventurers choose to wait and observe the back yard, they hear the voice and see who it comes from.
+"Is this your dog? Get him out of here, and pay me for my steak!!!"
 
-"All right, calm down! I have your food here. Be a good dog for once and calm down! Sheesh! I can't wait until this is over. Then I don't have to prepare any more beef for you, and I don't have to deal with your noise!"
-
-The adventurers see a man in his twenties coming into the fenced in back yard, followed by a large dog with a pink collar and a golden tag. Comparing with the photo, it's definitely Zulu. Zulu himself seems to be hungry, but in good spirits, as the man places a bowl of chopped up meat down on the ground. Zulu eats as if he hasn't been fed all day.
-
-The man starts talking to himself.
-
-"I can't understand why anyone would want a dog if this is what dogs are like. They just demand food, attention, more food, and then you have to clean up after them. Waste of time on all fronts. I hope what that woman said is true, and that she keeps up her end of the bargain. I'm glad that enchantment wore off though, as I never want to deal with a dog under that spell again. Couldn't stay still, tore through that meat like it was a chew toy. He'd better fetch a hefty price."
-
-At this point, the adventurers should decide what to do. If they choose to confront the man now, they will get some dialogue and a fight. If they choose to wait, they will meet their opponent first.
-
-"Now now, I will of course hold up my end of the bargain."
-
-A sorceress emerges from the house alongside the man. She is dressed provacatively, and seems to be using some sort of spell to get him to do what she wants.
-
-"You've done well so far. You traveled with the enchanted meat, attracting a dog to follow you back here. The people in this village love dogs. They will pay an exorbitant amount of money for a strong dog who can protect them, and this one fits the bill exactly. All we have to do is sell the dog at the fair tomorrow, and you'll keep half of the price, as promised. You may even find that you enjoy this type of work, and do it again, but that's up to you."
-
-The man seems hypnotized.
-
-"Yes, my lady. Anything for you."
-
-At this point, hopefully the adventurers will choose to step in. If they chose to confront the man before, the sorceress appears. Either way, the sorceress will taunt them before the fight begins.
-
-"You've made a poor decision challenging me, little adventurers. I can do so much more than simple obsession spells, as you've seen with both this poor man here and the dog who would follow him to the ends of the earth for the enchanted meat. Imagine what I could do to you."
-
-She snaps her fingers, and the adventurers are teleported inside the fenced in yard, for what is effectively a cage match. Ironic considering how dogs are treated. At this point the man seems to regain his senses, and goes to hide inside the house. The [Evil Sorceress](./enemies.md) can be found in the list of enemies.
+The adventurers can pay him a reasonable fee (let's say the equivalent of $20, which the adventurers started with) and take Zulu. If they were robbed during the encounter with the thief, they won't have any money to offer. The adventurers could offer to work off the debt, and help with the festival. If they don't propose anything like that and try to leave, the merchant will call the guards and there will be a fight. The [Festival Guards](./enemies.md) can be found in the list of enemies.
 
 ## The Return
 
-The sorceress is defeated. She snaps her fingers, and disappears. The adventurers are greeted by Zulu, who is happily wagging his tail, smelling his owner on their clothing. The man comes out of the house.
-
-"What... what just happened? Care to explain how you got in my yard? And where did she go?"
-
-The adventurers can explain the situation. Depending on whether or not they got the explanation by observing the back yard longer, the man can explain the plan to sell Zulu and make a profit, as he's desperate for money and the sorceress offered him a way out of debt by selling dogs. Seeing as the man was being taken advantage of and has no desire to deal with dogs, the adventurers should leave him alone and focus on returning Zulu to his owner.
+After paying the merchant or fighting the guards, the adventurers find Zulu finishing up his steak. Once he is done, they are greeted by the dog, who is happily wagging his tail, smelling his owner on their clothing. He will follow you back home now.
 
 It's the evening now, and the adventurers take Zulu and hasten east back towards the original town. It's close to 22:00 when they arrive at the man's house. They knock on the door, and hear some commotion upstairs as someone scrambles to answer the door.
 
@@ -189,7 +163,7 @@ The man darts out of the house and embraces Zulu. Zulu responds joyfully by lick
 
 The adventurers go inside the man's house, and regale him with the tale of tracking down Zulu.
 
-"Oh, what an evil scheme, to steal and then sell a dog. I hope this doesn't happen to anyone ever again. It sounds like you scared off that evil sorceress, and hopefully that man will wise up to not be fooled by such promises again."
+"Oh, so he smelled the barbecued meats from the festival in the next town over? What an impressive sense of smell! That's my boy! He must have jumped the fence in the backyard and darted off to join the party."
 
 "Here is the payment, as promised. And as for YOU, Zulu, don't ever run off like that again!"
 
